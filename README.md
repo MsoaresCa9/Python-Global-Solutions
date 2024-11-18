@@ -90,3 +90,7 @@ Além disso, ao escolher a opção "2", um mapa interativo será gerado, exibind
 
 Este projeto tem como objetivo demonstrar a integração da tecnologia blockchain com energias renováveis e sua capacidade de transformar o setor energético, oferecendo soluções descentralizadas, transparentes e eficientes. As funcionalidades do código permitem ao usuário explorar diferentes aspectos dessa aplicação e visualizar dados de forma intuitiva e interativa.
 
+##Integrantes
+Caio Soares Rossini: RM555084
+Lucas Serrano: RM555170
+Pedro Henrique Nobre: RM557454
